@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "bvpSolve"]
 	path = bvpSolve
-	url = https://github.com/cran/bvpSolve
+	url = https://github.com/ghfbsd/bvpsolve
